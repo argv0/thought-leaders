@@ -21,7 +21,7 @@ In case it isn't obvious, this is a joke. What's worse, it's riddled with inside
 * [Alex Payne](https://twitter.com/al3x) - Chicken Scheme, Agda, Falconry. 
 * [Coda Hale](https://twitter.com/coda) - Text Editors. 
 * [Tom Santero](https://twitter.com/tsantero) - Beer spilling, eventual consistency. 
-* [Zed Shaw](https://twitter.com/zedshaw) - Guitars, Learning things the hard way. 
+* [Zed Shaw](https://twitter.com/zedshaw) - Guitars, Learning things the hard way, showing up at Basho demanding apologies.
 * [James Watters](https://twitter.com/wattersjames) - Hockey, AWS Latency. 
 * [Rick Branson](https://twitter.com/rbranson) - Photographs.  
 * [Jeff Hodges](https://twitter.com/jmhodges) - Memcache tuning, Ginuwine.  
